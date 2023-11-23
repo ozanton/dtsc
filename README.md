@@ -8,10 +8,8 @@ Hello! My name is Anton, I am a data analyst. In this repository you can find so
 - Data visualization tools / Средства визуализации данных: ``PowerBi``
 
 ## Projects / Проекты
-Project 1: Online School Unit Economics Calculator / Проект 1: Калькулятор юнит-экономики онлайн-школы</p>
-Project 2: Online Cinema Unit Economics Calculator / Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра</p>
-Project 3: Cohort Analysis of Online Cinema Using SQL< / Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
-Project 4: Modeling Student Balance Changes with SQL< /  Проект 4: Моделирование изменения балансов студентов с помощью SQL</p> 
+Project: Modeling Student Balance Changes with SQL< /  Проект: Моделирование изменения балансов студентов с помощью SQL</p> 
+Project: Building a data showcase with SQL / Проект: Построение витрины данных с помощью SQL
 
 ## Contact Information / Контактная информация
 - Email: anton.borisenko@gmail.com
