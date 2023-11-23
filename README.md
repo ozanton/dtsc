@@ -1,5 +1,8 @@
-Hello! My name is Anton, I am a data analyst. In this repository you can find some of my projects completed during my training.
+Hello! My name is Anton, I am a data analyst, business analyst and economist. In my last job, I worked as deputy head of the planning and economic department with business analyst functions at the Arctic and Antarctic Research Institute.
 
+I work with big data. I mainly use Upiter Notebook (Google Colab).
+
+Here you can find my portfolio with some of the tasks I did during my online training on data analytics.
 
 ## Skills and technologies / Навыки и технологии
 - Data Analysis Tools / Инструменты анализа данных: ``Python``, ``SQL``, ``Excel`` 
