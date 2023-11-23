@@ -12,6 +12,6 @@ Hello! My name is Anton, I am a data analyst. In this repository you can find so
 * Project: Building a data showcase with SQL / Проект: Построение витрины данных с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/SQL_data_showcase.txt)
 
 ## Contact Information / Контактная информация
-- E-mail: [e-mail](anton.borisenko@gmail.com)
+- E-mail: anton.borisenko@gmail.com
 - LinkedIn: [link](https://www.linkedin.com/in/anton-borisenko-59a7b51/)
 - Facebook: [link](https://www.facebook.com/borisenko.anton.7) 
