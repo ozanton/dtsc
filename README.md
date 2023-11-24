@@ -15,7 +15,7 @@ Here you can find my portfolio with some of the tasks I did during my online tra
 * Project: Cohort Analysis of Online Cinema with SQL< / Проект: Когортный анализ онлайн-кинотеатра с помощью SQL  [view](https://github.com/ozanton/dtsc/blob/main/SQL_cohort.txt)</p> </p>
 * Project: Modeling Student Balance Changes with SQL< /  Проект: Моделирование изменения балансов студентов с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/SQL_balance.txt)</p> 
 * Project: Building a data showcase with SQL / Проект: Построение витрины данных с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/SQL_data_showcase.txt)
-* Project: Analyzing AB Test results / Проект: Анализ результатов АБ-Тестa [view](https://github.com/ozanton/dtsc/blob/main/Analyzing_ABTest_results.ipynb)
+* Project: Analyzing AB Test results with Python / Проект: Анализ результатов АБ-Тестa с помощью Python [view](https://github.com/ozanton/dtsc/blob/main/Analyzing_ABTest_results.ipynb)
 <i><font size=-20>(I needed to analyze and visualize the results, perform segmentation, as well as draw conclusions and formulate recommendations for further AB Test runs).</font></i>
 
 ## Contact Information / Контактная информация
