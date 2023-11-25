@@ -1,6 +1,5 @@
-==================================================
-Project: Modeling Student Balance Changes with SQL / Проект: Моделирование изменения балансов студентов с помощью SQL.
-==================================================
+#### Modeling Student Balance Changes with SQL / Проект: Моделирование изменения балансов студентов с помощью SQL.
+
 My task was to model the change in student balances. A balance is the number of hours each student has.
 We need to make sure everything is okay with our data so I can form a list of hypotheses and questions, it was important for me to understand:
 - how many total hours were in balance for all students on each calendar day;
