@@ -12,10 +12,10 @@ Here you can find my portfolio with some of the tasks I did during my online tra
 - Data visualization tools / Средства визуализации данных: ``PowerBi``
 
 ## Projects / Проекты
-* Project 1: Cohort Analysis of Online Cinema with SQL< / Проект 1: Когортный анализ онлайн-кинотеатра с помощью SQL  [view](https://github.com/ozanton/dtsc/blob/main/SQL_cohort.txt)</p> </p>
-* Project 2: Modeling Student Balance Changes with SQL< /  Проект 2: Моделирование изменения балансов студентов с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/SQL_balance.txt)</p> 
-* Project 3: Building a data showcase with SQL / Проект 3: Построение витрины данных с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/SQL_data_showcase.txt)
-* Project 4: Analyzing AB Test results with Python / Проект 4: Анализ результатов АБ-Тестa с помощью Python [view](https://github.com/ozanton/dtsc/blob/main/Analyzing_ABTest_results.ipynb)
+* Project 1: Cohort Analysis of Online Cinema with SQL< / Проект 1: Когортный анализ онлайн-кинотеатра с помощью SQL  [view](https://github.com/ozanton/dtsc/blob/main/1.%20Cohort%20Analysis%20with%20SQL/readme.md)</p> 
+* Project 2: Modeling Student Balance Changes with SQL< /  Проект 2: Моделирование изменения балансов студентов с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/2.%20Modeling%20Balance%20with%20SQL/readme.md)</p> 
+* Project 3: Building a data showcase with SQL / Проект 3: Построение витрины данных с помощью SQL [view](https://github.com/ozanton/dtsc/blob/main/3.%20Data%20showcase%20with%20SQL/readme.md)</p> 
+* Project 4: Analyzing AB Test results with Python / Проект 4: Анализ результатов АБ-Тестa с помощью Python [view](https://github.com/ozanton/dtsc/blob/main/4.%20Analyzing%20AB%20Test%20with%20Python/readme.md)</p> 
 
 ## Contact Information / Контактная информация
 - E-mail: anton.borisenko@gmail.com
